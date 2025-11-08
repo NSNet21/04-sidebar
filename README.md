@@ -9,7 +9,7 @@ Features a **collapsible side menu**, smooth width transition, and interactive h
 
 ## 🖼️ Preview
 
-![Sidebar Preview](assets-preview/preview.jpeg)
+![Sidebar Preview](assets-preview/sidebar.jpeg)
 
 ---
 
